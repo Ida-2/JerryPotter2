@@ -18,7 +18,7 @@ body {
   align-items: center;
   width: 100vw;
   height: 100vh;
-  background-image: url(castle.JPG);
+  background-image: url('castle.JPG');
   background-position: right;
   background-repeat: no-repeat;
   background-color: #a7460e;
